@@ -26,10 +26,8 @@ const priya = {
   pronouns: "she/her",
   branch: "Electronics & Communication Engineering",
   currentlyLearning: ["Full Stack Dev", "IoT", "DSA"],
-  passion: "Merging hardware with software 🔧💻",
   openSource: "GSSoC 2026 Contributor 🚀",
   askMeAbout: ["Web Dev", "Arduino", "ESP32", "React"],
-  funFact: "I debug hardware AND code... send help 😅"
 };
 ```
 
@@ -117,16 +115,8 @@ const priya = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=billu-beep&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
----
 
-<!-- Trophy Section -->
-<div align="center">
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=billu-beep&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -145,27 +135,7 @@ and building software that reaches real people.
 
 </div>
 
----
 
-## 💡 Something Different
-
-<div align="center">
-
-```
-      🔧 Hardware Side          💻 Software Side
-   ┌─────────────────┐       ┌─────────────────┐
-   │  • ESP32 & IoT  │  ───  │  • React / Node │
-   │  • Arduino IDE  │  ───  │  • REST APIs    │
-   │  • Smart Home   │  ───  │  • Web Dashbd.  │
-   │  • Circuits     │  ───  │  • Full Stack   │
-   └─────────────────┘       └─────────────────┘
-            \                       /
-             \_____________________/
-                  🚀 Building IoT + Web
-              
-```
-
-</div>
 
 ---
 
