@@ -32,8 +32,6 @@ const priya = {
 ```
 
 - 🎓 **ECE Student** navigating into the software world
-- 💻 Skilled in **Frontend → Backend → Full Stack**
-- 🌱 Bridging the gap between **circuits and code**
 - 🤝 **GSSoC 2026** Open Source Contributor
 
 ---
@@ -78,23 +76,6 @@ const priya = {
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
-
----
-
-## 🚀 Projects 
-
-<div align="center">
-
-| 🔧 Project | 🛠 Tech Used | 💡 About |
-|-----------|------------|---------|
-| 🏠 **Smart Home Automation** | ESP32, Arduino, IoT | Control home devices wirelessly |
-| 🧮 **Faulty Calculator** | JavaScript | A fun twist on a simple calculator |
-| 💼 **Business Name Generator** | HTML, JS | Generates creative business names |
-| 🗾 **Kana Dojo** *(GSSoC)* | TypeScript, Next.js | Japanese learning app — My firstever Open Source Contribution |
-
-</div>
-
-> 🔭 **Currently Building:** An IoT project that lets you control hardware devices through a web dashboard .
 
 ---
 
