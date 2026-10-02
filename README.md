@@ -1,12 +1,12 @@
 
 <div align="center">
-  <img src="<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/82247e0a-4130-4588-b952-9effcaede550" />
+  <img src=<img width="736" height="414" alt="476368527-65ce52d1-68ae-4242-bddf-07e2ea086e83" src="https://github.com/user-attachments/assets/88ab2613-4249-4aa7-8640-395184d61266" />
+ />
 " alt="Banner" width="60%" />
   <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=ECE+Student+%7C+Full+Stack+Developer;Hardware+%2B+Software+Builder;GSSoC+2026+Contributor+%F0%9F%9A%80;while(alive)+%7B+learn()%3B+build()%3B+contribute()%3B+%7D" alt="Typing SVG" />
   <br/><br/>
   <a href="https://github.com/billu-beep"><img src="https://komarev.com/ghpvc/?username=billu-beep&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" /></a>
-  <a href="https://leetcode.com/u/bit_assassin/"><img src="https://img.shields.io/badge/LeetCode-bit__assassin-592E83?style=for-the-badge&logo=leetcode&logoColor=F5EFFF" /></a>
   <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-9984D4?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
