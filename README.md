@@ -1,13 +1,10 @@
-
 <div align="center">
-  <img src=<img width="736" height="414" alt="476368527-65ce52d1-68ae-4242-bddf-07e2ea086e83" src="https://github.com/user-attachments/assets/88ab2613-4249-4aa7-8640-395184d61266" />
- />
-" alt="Banner" width="60%" />
+  <img src="https://raw.githubusercontent.com/billu-beep/billu-beep/main/banner.jpeg" alt="Banner" width="60%" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=ECE+Student+%7C+Full+Stack+Developer;Hardware+%2B+Software+Builder;GSSoC+2026+Contributor+%F0%9F%9A%80;while(alive)+%7B+learn()%3B+build()%3B+contribute()%3B+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=ECE+Student+%7C+Full+Stack+Developer;Hardware+%2B+Software+Builder;GSSoC+2026+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
   <br/><br/>
-  <a href="https://github.com/billu-beep"><img src="https://komarev.com/ghpvc/?username=billu-beep&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" /></a>
   <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-9984D4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIIT-Manipur-592E83?style=for-the-badge&logoColor=F5EFFF" />
 </div>
 
 <p align="center">─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───</p>
@@ -15,12 +12,9 @@
 <h2 align="center">💟 src/pages/AboutMe.tsx 💟</h2>
 
 ```ts
-const priya: Developer = {
+const priya: about_me = {
   name: "Priya Singh",
-  pronouns: "she/her",
   college: "IIIT Manipur",
-  branch: "Electronics & Communication Engineering",
-
 }
 ```
 
@@ -55,17 +49,10 @@ const priya: Developer = {
 
 <div align="center">
 
-|  DSA & Problem Solving | Open Source |
+| DSA & Problem Solving | Open Source |
 |:---:|:---:|:---:|
-| **Cloud & Docker** |
+| **Embedded & IoT** | **Software** | **Cloud & Docker** |
 
-</div>
-
-<h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-taupe.vercel.app?user=billu-beep&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img src="https://github-readme-stat-lemon.vercel.app/api?username=billu-beep&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 </div>
 
 <h2 align="center">💟 src/pages/Contributions.tsx 💟</h2>
@@ -82,12 +69,11 @@ priya@github:~$ cat about.sh
 NAME="Priya Singh"
 LOCATION="India 🇮🇳"
 
-INTERESTS=("Full Stack" "Electronics" "Open Source" "DSA")
+INTERESTS=("Full Stack" "Electronics" "Open Source")
 
 FACTS=(
   "ECE student wandering happily into the software world"
-  "my profile picture is my spirit animal 🐱"
- 
+  " 🐱"
 )
 ```
 
@@ -98,7 +84,6 @@ FACTS=(
 <h2 align="center">💟 src/pages/ContactMe.tsx 💟</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=F5EFFF" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-F5EFFF?style=for-the-badge&logo=gmail&logoColor=%23230C33" /></a
+  <a href="https://www.linkedin.com/in/priya-singh-589553343"><img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=F5EFFF" /></a>
   <a href="https://github.com/billu-beep"><img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=F5EFFF" /></a>
 </p>
