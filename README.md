@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/billu-beep/billu-beep/main/banner.jpeg" alt="Banner" width="60%" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=ECE+Student+%7C+Full+Stack+Developer;Hardware+%2B+Software+Builder;GSSoC+2026+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=ECE+Student+%7C+IIIT+Manipur;Open+source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
   <br/><br/>
   <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-9984D4?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/IIIT-Manipur-592E83?style=for-the-badge&logoColor=F5EFFF" />
