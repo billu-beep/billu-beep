@@ -1,135 +1,104 @@
+
 <div align="center">
-
-<!-- Typing SVG Animated Intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Priya+Singh+%F0%9F%91%8B;ECE+Student+%7C+Software+Explorer;Building+where+Hardware+meets+Code;while(alive)+%7B+learn()+build()+%7D)](https://git.io/typing-svg)
-
-<!-- Animated Banner Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priya%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20%7C%20Full%20Stack%20Dev%20%7C%20Hardware%20%2B%20Software%20Builder&descAlignY=54&descAlign=50" />
-
-<!-- Badges Row -->
-[![GSSoC 2026](https://img.shields.io/badge/GSSoC-2026%20Contributor-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.tech/)
-[![ECE Student](https://img.shields.io/badge/ECE-Student-6C63FF?style=for-the-badge&logo=arduino&logoColor=white)]()
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-FF4500?style=for-the-badge)]()
-[![India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-138808?style=for-the-badge)]()
-
+  <img src="<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/82247e0a-4130-4588-b952-9effcaede550" />
+" alt="Banner" width="60%" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=ECE+Student+%7C+Full+Stack+Developer;Hardware+%2B+Software+Builder;GSSoC+2026+Contributor+%F0%9F%9A%80;while(alive)+%7B+learn()%3B+build()%3B+contribute()%3B+%7D" alt="Typing SVG" />
+  <br/><br/>
+  <a href="https://github.com/billu-beep"><img src="https://komarev.com/ghpvc/?username=billu-beep&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" /></a>
+  <a href="https://leetcode.com/u/bit_assassin/"><img src="https://img.shields.io/badge/LeetCode-bit__assassin-592E83?style=for-the-badge&logo=leetcode&logoColor=F5EFFF" /></a>
+  <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-9984D4?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
----
+<p align="center">─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───</p>
 
-<!-- About Me Section with Animated Rocket -->
-<img align="right" alt="Coding Cat GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<h2 align="center">💟 src/pages/AboutMe.tsx 💟</h2>
 
-## 🌟 About Me 😼
-
-```javascript
-const priya = {
+```ts
+const priya: Developer = {
+  name: "Priya Singh",
   pronouns: "she/her",
+  college: "IIIT Manipur",
   branch: "Electronics & Communication Engineering",
-  currentlyLearning: ["Full Stack Dev", "DSA"],
-  openSource: "GSSoC 2026 Contributor 🚀",
- };
+
+}
 ```
 
-- 🎓 **ECE Student** navigating into the software world
-- 🤝 **GSSoC 2026** Open Source Contributor
+<h2 align="center">💟 src/pages/TechStack.tsx 💟</h2>
 
----
-
-<!-- Animated GIF separator -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br/>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>HTML</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>CSS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br/>Tailwind</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>C</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/><br/>Arduino</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br/>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br/>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br/>VS Code</td>
+  </tr>
+</table>
 </div>
 
----
-
-## 🛠️ Tech Stack & Tools
+<h2 align="center">💟 src/pages/OnMyRadar.tsx 💟</h2>
 
 <div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔌 Hardware & IoT 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-FF6B6B?style=for-the-badge&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+|  DSA & Problem Solving | Open Source |
+|:---:|:---:|:---:|
+| **Cloud & Docker** |
 
 </div>
 
----
+<h2 align="center">💟 src/pages/Stats.tsx 💟</h2>
 
-<!-- Animated GIF separator -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://github-readme-streak-stats-taupe.vercel.app?user=billu-beep&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-stat-lemon.vercel.app/api?username=billu-beep&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 </div>
 
----
-
-
-
-
----
-
-## 🌈 Open Source Journey
+<h2 align="center">💟 src/pages/Contributions.tsx 💟</h2>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/billu-beep/billu-beep/output/github-snake.svg" alt="github contribution snake" />
+</div>
 
+<h2 align="center">💟 src/pages/WhoAmI.tsx 💟</h2>
+
+```bash
+priya@github:~$ cat about.sh
+
+NAME="Priya Singh"
+LOCATION="India 🇮🇳"
+
+INTERESTS=("Full Stack" "Electronics" "Open Source" "DSA")
+
+FACTS=(
+  "ECE student wandering happily into the software world"
+  "my profile picture is my spirit animal 🐱"
+ 
+)
 ```
-🌸 GSSoC 2026 — Girl Script Summer of Code
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Contributing to open source, learning from the community,
-and building software that reaches real people. 
-```
 
-![GSSoC Badge](https://img.shields.io/badge/GSSoC-Active%20Contributor-FF6B9D?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">💟 src/pages/Quote.tsx 💟</h2>
 
-</div>
+<p align="center"><b><i>"Learn it. Build it. Break it. Fix it. Repeat."</i></b></p>
 
+<h2 align="center">💟 src/pages/ContactMe.tsx 💟</h2>
 
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-billu--beep-181717?style=for-the-badge&logo=github)](https://github.com/billu-beep)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/priya-singh-589553343)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billu739399@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/billu-beep/billu-beep/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-<div align="center">
-
-**⭐ Star my repos if you find them helpful! | 💬 Always open to collaborate!**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=billu-beep&color=FF6B9D&style=for-the-badge&label=Profile+Views)
-
-*"while(alive) { learn(); build(); contribute(); }"* 💫
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=F5EFFF" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-F5EFFF?style=for-the-badge&logo=gmail&logoColor=%23230C33" /></a
+  <a href="https://github.com/billu-beep"><img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=F5EFFF" /></a>
+</p>
